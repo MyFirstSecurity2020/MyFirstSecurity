@@ -1,1 +1,17 @@
-# MyFirstSecurity
+# MyFirstSecurity資安體驗營
+```
+
+
+```
+
+# 體驗內容
+```
+認識CTF搶旗大賽--從解題實戰中學習資安技能
+起手式---word隱寫術
+Hitcon CTF
+
+簡單的網頁解題
+編碼與解碼
+古典密碼之破密分析
+linux 基礎指令與簡易安全觀念
+```
