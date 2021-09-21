@@ -16,7 +16,7 @@
 ```
 學習資安技能的超趣地圖--CTF搶旗大賽與解題實戰
 
-登入CTF 
+註冊與登入CTF 
 
 起手式---word隱寫術
 
@@ -30,8 +30,8 @@
 下載putty
 linux 基礎指令與簡易安全觀念
 ```
-(*實體課程才有)
-
+- *實體課程才有
+- 上完課後要填問卷調查,仔細填寫(要發證書的!)
 
 ## 上課之前 一定要宣讀 資安倫理宣言
 
@@ -47,6 +47,8 @@ linux 基礎指令與簡易安全觀念
 - [下載putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ![下載putty版本](./putty.png)
+
+
 
 # [實體活動]時程表
 ```
