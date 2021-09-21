@@ -24,8 +24,8 @@
 - 學習資安技能的超趣地圖--[CTF搶旗大賽](CTF搶旗大賽.md)與解題實戰
 - 註冊與登入CTF 
 - 起手式---word隱寫術
-- (*)[Hitcon CTF](https://ctf2017.hitcon.org/) []實體課程才有
-- (*)簡單的網頁解題
+- (*)[Hitcon CTF](https://ctf2017.hitcon.org/) 實體課程才有
+- 簡單的網頁解題 
 - 編碼與解碼
 - 古典密碼之破密分析
 - [下載putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
