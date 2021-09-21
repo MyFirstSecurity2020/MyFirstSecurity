@@ -35,8 +35,7 @@ Windows 作業系統目錄結構==> 有 C: D:
           /bin
           /root ==> 最高權限使用者(管理者)登入時的目錄
           /home ==> 一般使用者登入時的目錄
-          /home/ksu ==> ksu使用者登入時的目錄
-          
+          /home/ksu ==> ksu使用者登入時的目錄     
 ```
 # 實作練習:目錄存取常用指令(linux command)
 ```
