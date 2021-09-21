@@ -47,7 +47,7 @@ linux 基礎指令與簡易安全觀念
 - [登入CTF](140.110.112.211)
 - 註冊(register)  點選右上角register按鈕
 
-![註冊](register.gif)
+![註冊](註冊.gif)
 
 # 使用putty遠端連線
 
