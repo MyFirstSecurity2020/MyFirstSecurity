@@ -32,11 +32,6 @@ linux 基礎指令與簡易安全觀念
 ```
 (*實體課程才有)
 
-- [下載putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-
-![下載putty版本](./putty.png)
-
-
 
 ## 上課之前 一定要宣讀 資安倫理宣言
 
@@ -47,6 +42,11 @@ linux 基礎指令與簡易安全觀念
 
 - [高中職生資安研習營 別忘了 按讚 給我們鼓勵](https://zh-tw.facebook.com/pages/category/Community/高中職生資安研習營-455550404836569/)
 
+# 使用putty遠端連線
+
+- [下載putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
+![下載putty版本](./putty.png)
 
 # [實體活動]時程表
 ```
