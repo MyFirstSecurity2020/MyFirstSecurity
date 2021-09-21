@@ -21,7 +21,7 @@
 - 適合高中職學生學習資安的好去處[【高中職生資安研習營】 別忘了 按讚 給我們鼓勵](https://zh-tw.facebook.com/pages/category/Community/高中職生資安研習營-455550404836569/)
 
 ## 正式上課
-- 學習資安技能的超趣地圖--[CTF搶旗大賽](CTF搶旗大賽.md)與解題實戰
+- 學習資安技能的超趣活動--[CTF搶旗大賽](CTF搶旗大賽.md)解題實戰
 - 註冊與登入CTF 
 - 起手式---word隱寫術
 - (*)[Hitcon CTF](https://ctf2017.hitcon.org/) 實體課程才有
