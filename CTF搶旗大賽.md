@@ -34,7 +34,7 @@
 >* [ångstromCTF](https://angstromctf.com/)
 
 ## 世界駭客大賽DEFCON CTF 台灣戰記
->* [2021年DEF CON29 CTF: ]
+>* [2021年DEF CON29 CTF: 第五名]
 >* [2020年DEF CON28 CTF: 第三名](https://www.ithome.com.tw/news/139300)
 >* [2019年DEF CON27 CTF: 第二名](https://www.ithome.com.tw/news/132347)
 >* [2018年DEF CON26 CTF: 第三名](https://www.ithome.com.tw/news/125134)
