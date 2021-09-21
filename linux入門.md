@@ -1,17 +1,10 @@
 # [linux](https://en.wikipedia.org/wiki/Linux_kernel)
-```
-linux
-Linux…是一種自由和開放原始碼(open source)的UNIX-like作業系統。
 
-The Linux kernel is a free and open-source, monolithic, 
-modular,multitasking(多工), Unix-like operating system kerne
-```
-```
-Linux作業系統的核心(kernel)由林納斯·托瓦茲Linus Torvalds在1991年首次發布。
+- Linux…是一種自由和開放原始碼(open source)的UNIX-like作業系統。
+- The Linux kernel is a free and open-source, monolithic, modular,multitasking(多工), Unix-like operating system kerne
+- Linux作業系統的核心(kernel)由林納斯·托瓦茲Linus Torvalds在1991年首次發布。
+- [公布在github的linux核心原始碼(Linux kernel source tree)](https://github.com/torvalds/linux)
 
-核心原始碼公布在github ==> Linux kernel source tree
-https://github.com/torvalds/linux
-```
 
 # 目錄結構
 ## windows 作業系統目錄結構
