@@ -45,6 +45,7 @@ cat ==> (1)印出檔案內容 (2)合併多檔(concatenate）
   cat flag
   cat /etc/passwd
 ```
+## 指令與參數
 ```
 試輸入底下指令與參數 看看結果有何不同
 ls
@@ -58,7 +59,7 @@ ls -Al
 梗多說明請參看
 https://blog.gtwang.org/linux/linux-ls-command-tutorial/
 ```
-## 指令語法與參數
+## pwd 指令語法與參數
 ```
 pwd 的語法:  pwd [OPTION]
 
